@@ -1,0 +1,27 @@
+#
+# ~/.bashrc
+#
+export ISA=riscv32
+export ARCH=riscv32-nemu
+export CLASSPATH=/usr/local/lib/antlr-4.9.1-complete.jar:.
+alias antlr4='java -jar /usr/local/lib/antlr-4.9.1-complete.jar'
+export NEMU_HOME=/home/bridge71/Documents/ysyx/ysyx-workbench/nemu
+export AM_HOME=/home/bridge71/Documents/ysyx/ysyx-workbench/abstract-machine
+#export PATH=/home/bridge71/.fzf/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/android-sdk/platform-tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/android-sdk/platform-tools
+export PATH=$PATH:/home/bridge71/go/bin
+export PATH=$PATH:/usr/local/go/bin
+
+alias ll="ls -lh"
+
+alias gs="git status"
+alias gc="git commit"
+alias n="nvim"
+
+alias sl=ls
+
+alias mv="mv -i"
+alias df="df -h"
+alias dc="cd"
+alias dd="cd"
+export SHELL=/bin/fish
+export EDITOR=nvim
