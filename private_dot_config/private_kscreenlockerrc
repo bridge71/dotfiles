@@ -1,0 +1,9 @@
+[Daemon]
+Autolock=false
+LockOnResume=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/bridge71/Pictures/colored-leaves-autumn-colored-leaves-Wallpaper-1920x1080-10wallpaper.com.jpg
+PreviewImage=/home/bridge71/Pictures/colored-leaves-autumn-colored-leaves-Wallpaper-1920x1080-10wallpaper.com.jpg
+SlidePaths=/home/bridge71/.local/share/wallpapers/,/usr/share/wallpapers/
