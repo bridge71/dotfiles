@@ -263,7 +263,7 @@ _launch=Alt+S
 [services][kitty.desktop]
 _launch=Alt+9
 
-[services][net.local.rm.desktop]
+[services][net.local.ocr.fish.desktop]
 _launch=Alt+W
 
 [services][org.kde.dolphin.desktop]

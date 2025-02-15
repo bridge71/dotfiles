@@ -33,3 +33,4 @@ alias SHUTDOWN "shutdown now"
 alias musicfox "/home/bridge71/Music/go-musicfox_4.5.7_linux_amd64/musicfox"
 alias src "source /home/bridge71/.config/fish/config.fish"
 alias cdwe "cd /home/bridge71/Documents/WeChat_Data/home/Documents/WeChat_Data"
+alias bili /home/bridge71/Videos/bili-sync/bili-sync-rs
